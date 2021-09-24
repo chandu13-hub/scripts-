@@ -1,1 +1,1 @@
-this project will contains only .sh and .py
+shell scripts 
